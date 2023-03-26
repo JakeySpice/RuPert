@@ -1,0 +1,55 @@
+{
+  "restrictive_practices": [
+    {
+      "category": "Chemical restraint",
+      "definition": "The use of medication to control a person's behaviour or movement",
+      "examples": [
+        "Administering antipsychotic medication to a patient without their informed consent to control their behaviour",
+        "Administering benzodiazepines to calm a person with an intellectual disability"
+      ],
+      "non-examples": [
+        "Administering medication to a patient with their informed consent to treat a medical condition"
+      ]
+    },
+    {
+      "category": "Environmental restraint",
+      "definition": "Restricting a person's movement or access to their environment through physical or environmental means",
+      "examples": [
+        "Using locked doors or gates to prevent a person from leaving a room or building"
+      ],
+      "non-examples": [
+        "Encouraging a person to stay in a certain room or area for their own safety"
+      ]
+    },
+    {
+      "category": "Mechanical restraint",
+      "definition": "Using a physical device to restrict a person's movement",
+      "examples": [
+        "Using handcuffs or leg restraints to prevent a person from leaving a room or building"
+      ],
+      "non-examples": [
+        "Using a seatbelt to ensure a person's safety while driving"
+      ]
+    },
+    {
+      "category": "Physical restraint",
+      "definition": "Using physical force or manual techniques to restrict a person's movement",
+      "examples": [
+        "Holding a person down to prevent them from leaving a room or building"
+      ],
+      "non-examples": [
+        "Using a soft touch to guide a person to a safe area during an emergency"
+      ]
+    },
+    {
+      "category": "Seclusion",
+      "definition": "Confining a person to a room or space from which they are unable to leave",
+      "examples": [
+        "Locking a person in a padded room for extended periods of time"
+      ],
+      "non-examples": [
+        "Providing a person with a private space to rest or recover from an illness"
+      ]
+    }
+  ]
+}
