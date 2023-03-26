@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import ttk
 
 import os
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "<your key>"
 
 import openai
 
