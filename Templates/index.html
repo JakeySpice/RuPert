@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RuPert v0.1</title>
+</head>
+<body>
+    <h1>RuPert v0.1</h1>
+    <form method="post">
+        <label for="input_text">Input:</label>
+        <textarea name="input_text" id="input_text" rows="5" cols="50"></textarea>
+        <br>
+        <button type="submit">Submit</button>
+    </form>
+    {% if output_text %}
+    <h2>Output:</h2>
+    <textarea readonly rows="10" cols="50">{{ output_text }}</textarea>
+    {% endif %}
+</body>
+</html>
