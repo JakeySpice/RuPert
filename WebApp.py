@@ -18,7 +18,7 @@ def generate_response(prompt):
         prompt=prompt,
         max_tokens=50,
         n=1,
-        stop=None,
+        stop="\n\n"",
         temperature=0.7,
     )
 
